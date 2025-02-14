@@ -11,7 +11,7 @@ import Support from './support/Support.jsx';
 import Home from './home/Home.jsx';
 import LLE from './designs/LoveLastEmbrace.jsx'; // Fixed typo in import path
 import DPage from './designs/designsPage.jsx';
-import SelfHelp from '../../selfhelp/src/selfHelp.jsx';
+
 
 const router = createBrowserRouter([
   { path: "/", element: <Home/> },
@@ -23,7 +23,7 @@ const router = createBrowserRouter([
   { path: "/show", element: <Showcase/> },
   { path: "/support", element: <Support/> },
   { path: "/designs", element: <DPage/> },
-  { path: "/helper", element: <SelfHelp/> }
+
 ]);
 
 createRoot(document.getElementById('root')).render(
