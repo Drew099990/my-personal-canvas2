@@ -1,0 +1,15 @@
+<script>start("c:\\Users\\AUTHENTIC PLUS STORE\\Desktop\\goals for the holidays\\port\\portfolio\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".git",".git",1,0,"0 B",1739520604,"2/14/25, 10:10:04 AM");</script>
+<script>addRow("my-personal-canvas","my-personal-canvas",1,0,"0 B",1739520431,"2/14/25, 10:07:11 AM");</script>
+<script>addRow("node_modules","node_modules",1,0,"0 B",1739323587,"2/12/25, 3:26:27 AM");</script>
+<script>addRow("public","public",1,0,"0 B",1739321288,"2/12/25, 2:48:08 AM");</script>
+<script>addRow("src","src",1,0,"0 B",1739323451,"2/12/25, 3:24:11 AM");</script>
+<script>addRow(".gitattributes",".gitattributes",0,66,"66 B",1739520528,"2/14/25, 10:08:48 AM");</script>
+<script>addRow(".gitignore",".gitignore",0,253,"253 B",1739321252,"2/12/25, 2:47:32 AM");</script>
+<script>addRow("eslint.config.js","eslint.config.js",0,1003,"1003 B",1739321252,"2/12/25, 2:47:32 AM");</script>
+<script>addRow("index.html","index.html",0,361,"361 B",1739321252,"2/12/25, 2:47:32 AM");</script>
+<script>addRow("package-lock.json","package-lock.json",0,160985,"157 kB",1739323576,"2/12/25, 3:26:16 AM");</script>
+<script>addRow("package.json","package.json",0,730,"730 B",1739323576,"2/12/25, 3:26:16 AM");</script>
+<script>addRow("README.md","README.md",0,451,"451 B",1739321253,"2/12/25, 2:47:33 AM");</script>
+<script>addRow("vite.config.js","vite.config.js",0,161,"161 B",1739321252,"2/12/25, 2:47:32 AM");</script>
