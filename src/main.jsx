@@ -9,7 +9,7 @@ import Showcase from './showcase/Showcase.jsx';
 import Brainstorm from './brsinstorm/Brainstorm.jsx'; // Fixed typo in import path
 import Support from './support/Support.jsx';
 import Home from './home/Home.jsx';
-import LLE from './designs/LoveLastEmbrace.jsx'; // Fixed typo in import path
+import LLE from './designs/LoveLAstEmbrace.jsx'; // Fixed typo in import path
 import DPage from './designs/designsPage.jsx';
 
 
